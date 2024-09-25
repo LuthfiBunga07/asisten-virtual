@@ -1,4 +1,3 @@
-# luthfibunga21
 # Virtual Assistant
 
 ## Deskripsi
@@ -20,3 +19,6 @@ Virtual Assistant adalah aplikasi yang dirancang untuk membantu pengguna dalam m
 - *Kecerdasan Buatan:* NLTK, SpaCy (untuk pemrosesan bahasa alami)
 - *Database:* SQLite atau MongoDB
 - *API:* OpenWeatherMap, NewsAPI
+
+## Source
+- https://github.com/ringa-tech/asistente-virtual.git
